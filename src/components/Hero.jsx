@@ -19,12 +19,14 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I am a UI/UX developer proficient <br className="sm:block hidden" />
-            in web applications, Python-based <br className="sm:block hidden" />{" "}
-            Data Science, and Web3 through <br className="sm:block hidden" />{" "}
+            in web applications and Python-based{" "}
+            <br className="sm:block hidden" /> Data Science, with a passion for
+            Web3 <br className="sm:block hidden" /> technologies built on
             Solidity & Rust.
           </p>
         </div>
       </div>
+      <ComputersCanvas />
     </section>
   );
 };
