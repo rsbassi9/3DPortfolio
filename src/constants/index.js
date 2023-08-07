@@ -47,15 +47,15 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Web3 Developer",
     icon: mobile,
   },
   {
-    title: "Web3 Developer",
+    title: "React Native Developer",
     icon: backend,
   },
   {
-    title: "UI/UX Developer",
+    title: "Data Scientist (ML/AI)",
     icon: creator,
   },
 ];
@@ -137,9 +137,9 @@ const experiences = [
     date: "Jan 2021 - Feb 2022",
     points: [
       "Developing and maintaining database of employee flights within Canada.",
-      "Analyzing the carbon footprint from flights for ConeTec employees using Pandas and numpy.",
+      "Analyzing the carbon footprint from flights for ConeTec employees using Python, Pandas and numpy.",
       "Using Selenium for Webscraping real-time data pretaining to CO2 emmissions.",
-      "Collaborating with cross-functional teams including engineers, HR teams and Managers.",
+      "Self-directed learning in ML & AI libraries such as Scikit-Learn, Matplotlib and Keras.",
     ],
   },
   {
