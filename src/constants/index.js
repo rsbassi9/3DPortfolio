@@ -17,7 +17,11 @@ import {
   docker,
   meta,
   starbucks,
-  //wix,
+  wix,
+  conetec,
+  solidity,
+  python,
+  freecodecamp,
   tesla,
   shopify,
   carrent,
@@ -119,7 +123,7 @@ const experiences = [
   {
     title: "UI/UX Developer (Freelance)",
     company_name: "Wix",
-    icon: starbucks, //wix
+    icon: wix,
     iconBg: "#383E56",
     date: "March 2018 - Present",
     points: [
@@ -132,7 +136,7 @@ const experiences = [
   {
     title: "Data Scientist (ML/AI)",
     company_name: "ConeTec Investigations Ltd.",
-    icon: tesla, //conetec
+    icon: conetec,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
@@ -145,7 +149,7 @@ const experiences = [
   {
     title: "Web Developer",
     company_name: "FreeCodeCamp",
-    icon: shopify, //freeCodeCamp
+    icon: freeCodeCamp,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
@@ -158,7 +162,7 @@ const experiences = [
   {
     title: "Web3 Developer",
     company_name: "Self-taught",
-    icon: meta, //Solidity / Rust icon
+    icon: solidity,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
