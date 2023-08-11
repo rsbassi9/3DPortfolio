@@ -22,6 +22,7 @@ import {
   //solidity,
   //python,
   //freecodecamp,
+  //rust,
   tesla,
   shopify,
   carrent,
