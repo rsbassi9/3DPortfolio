@@ -1,8 +1,10 @@
-# React + Vite
+This project showcases my work, as well as the follwing:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Utilized ThreeJS to render and animate intricate 3D models, enhancing visual appeal.
+Integrated React Three Fiber, harnessing its power to seamlessly incorporate complex 3D graphics into a React-based application.
+Leveraged TailwindCSS to craft a visually engaging and responsive user interface, ensuring optimal user experience across devices.
+Incorporated Framer Motion animations, breathing life into the website and captivating users with fluid and dynamic transitions.
+Demonstrated expertise in loading, customizing, and manipulating 3D models with appropriate lighting and camera perspectives, creating an immersive environment.
+Ensured code maintainability and scalability by employing Higher Order Components (HOCs) and adhering to industry best practices, streamlining development.
+Implemented a functional email sending mechanism through a user-friendly form, enhancing user engagement and interaction.
+Prioritized user-centric design by optimizing responsiveness for various devices and improving site performance using Suspense and Preload techniques.
