@@ -204,16 +204,16 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Solana NFT Marketplace",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform connected to OpenSea API that allows users to find and purchase Cryptopunk Clone NFT's using Solana Wallet.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "thirdWeb",
         color: "green-text-gradient",
       },
       {
@@ -222,7 +222,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/rsbassi9/react-nft-challenge",
   },
   {
     name: "Job IT",
