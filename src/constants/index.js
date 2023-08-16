@@ -15,16 +15,12 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  //wix,
-  //conetec,
-  //solidity,
+  wix,
+  conetec,
+  solidity,
   //python,
-  //freecodecamp,
+  freecodecamp,
   //rust,
-  tesla,
-  shopify,
   carrent,
   jobit,
   tripguide,
@@ -79,8 +75,8 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "Typescript", //Solidity
-    icon: typescript,
+    name: "Solidity",
+    icon: solidity,
   },
   {
     name: "React JS",
@@ -124,7 +120,7 @@ const experiences = [
   {
     title: "UI/UX Developer (Freelance)",
     company_name: "Wix",
-    icon: starbucks, //wix
+    icon: wix,
     iconBg: "#383E56",
     date: "March 2018 - Present",
     points: [
@@ -137,7 +133,7 @@ const experiences = [
   {
     title: "Data Scientist (ML/AI)",
     company_name: "ConeTec Investigations Ltd.",
-    icon: tesla, //conetec,
+    icon: conetec,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
@@ -150,7 +146,7 @@ const experiences = [
   {
     title: "Web Developer",
     company_name: "FreeCodeCamp",
-    icon: shopify, //freecodecamp,
+    icon: freecodecamp,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
@@ -163,7 +159,7 @@ const experiences = [
   {
     title: "Web3 Developer",
     company_name: "Self-taught",
-    icon: meta, //solidity,
+    icon: solidity,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
