@@ -20,11 +20,11 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import solidity from "./tech/solidity.png";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import wix from "./company/wix.png";
+import conetec from "./company/conetec.png";
+import freecodecamp from "./company/freecodecamp.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -52,10 +52,14 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  solidity,
+  // meta,
+  // shopify,
+  // starbucks,
+  // tesla,
+  wix,
+  conetec,
+  freecodecamp,
   carrent,
   jobit,
   tripguide,
