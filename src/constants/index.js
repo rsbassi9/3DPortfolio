@@ -11,16 +11,14 @@ import {
   redux,
   tailwind,
   nodejs,
-  mongodb,
   git,
   figma,
-  docker,
   wix,
   conetec,
   solidity,
-  //python,
+  python,
   freecodecamp,
-  //rust,
+  rust,
   carrent,
   jobit,
   tripguide,
@@ -95,8 +93,8 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: "MongoDB", // Rust
-    icon: mongodb,
+    name: "Rust",
+    icon: rust,
   },
   {
     name: "Three JS",
@@ -111,8 +109,8 @@ const technologies = [
     icon: figma,
   },
   {
-    name: "docker", // Python
-    icon: docker,
+    name: "python",
+    icon: python,
   },
 ];
 
