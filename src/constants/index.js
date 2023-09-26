@@ -228,11 +228,11 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "api's",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "stripe",
         color: "pink-text-gradient",
       },
     ],
