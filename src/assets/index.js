@@ -27,7 +27,7 @@ import conetec from "./company/conetec.png";
 import freecodecamp from "./company/freecodecamp.png";
 
 import carrent from "./carrent.png";
-import jobit from "./jobit.png";
+import ai_saas from "./ai_saas.jpg";
 import tripguide from "./tripguide.png";
 
 export {
@@ -57,6 +57,6 @@ export {
   conetec,
   freecodecamp,
   carrent,
-  jobit,
+  ai_saas,
   tripguide,
 };

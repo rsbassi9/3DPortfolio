@@ -20,7 +20,7 @@ import {
   freecodecamp,
   rust,
   carrent,
-  jobit,
+  ai_saas,
   tripguide,
   threejs,
 } from "../assets";
@@ -219,9 +219,9 @@ const projects = [
     source_code_link: "https://github.com/rsbassi9/react-nft-challenge",
   },
   {
-    name: "Job IT",
+    name: "Nebula.ai",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application uses API's for AI content generation. Integrated customer support, Stripe payments, database management and Pro-tier subscriptions.",
     tags: [
       {
         name: "react",
@@ -236,8 +236,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: ai_saas,
+    source_code_link: "https://github.com/rsbassi9/ai-saas",
   },
   {
     name: "Trip Guide",
