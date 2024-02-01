@@ -19,7 +19,7 @@ import {
   python,
   freecodecamp,
   rust,
-  carrent,
+  punks,
   ai_saas,
   tripguide,
   threejs,
@@ -215,7 +215,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: punks,
     source_code_link: "https://github.com/rsbassi9/react-nft-challenge",
   },
   {

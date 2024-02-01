@@ -26,7 +26,7 @@ import wix from "./company/wix.png";
 import conetec from "./company/conetec.png";
 import freecodecamp from "./company/freecodecamp.png";
 
-import carrent from "./carrent.png";
+import punks from "./punks.png";
 import ai_saas from "./ai_saas.jpg";
 import tripguide from "./tripguide.png";
 
@@ -56,7 +56,7 @@ export {
   wix,
   conetec,
   freecodecamp,
-  carrent,
+  punks,
   ai_saas,
   tripguide,
 };
