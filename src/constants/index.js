@@ -245,15 +245,15 @@ const projects = [
       "A comprehensive Solidity development library for beginners and experts alike. Use ethers.js, thirdweb, remix and others to develop your own smart contracts, NFT's and more.",
     tags: [
       {
-        name: "nextjs",
+        name: "python",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "thirdweb",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "ethers.js",
         color: "pink-text-gradient",
       },
     ],
