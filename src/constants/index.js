@@ -240,9 +240,9 @@ const projects = [
     source_code_link: "https://github.com/rsbassi9/ai-saas",
   },
   {
-    name: "Trip Guide",
+    name: "Solidity Development",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A comprehensive Solidity development library for beginners and experts alike. Use ethers.js, thirdweb, remix and others to develop your own smart contracts, NFT's and more.",
     tags: [
       {
         name: "nextjs",
@@ -257,8 +257,9 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: solidity,
+    source_code_link:
+      "https://github.com/rsbassi9/Solidity/tree/main/Blockchain%20Dev.%20Bootcamp",
   },
 ];
 
