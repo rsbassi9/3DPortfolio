@@ -176,7 +176,8 @@ const testimonials = [
     name: "Vishakha Jani",
     designation: "CFO",
     company: "Jagannath Growers PLC.",
-    image: "https://randomuser.me/api/portraits/women/28.jpg",
+    image:
+      "https://media.licdn.com/dms/image/C4E03AQGQVpaMAPlTfg/profile-displayphoto-shrink_800_800/0/1516648768082?e=1712793600&v=beta&t=Y9y39KKRPXGV75BHLLKEq0FpamWfZSMK_138tmtwNN0",
   },
   {
     testimonial:
@@ -194,7 +195,6 @@ const testimonials = [
     company: "Kanga Threads",
     image:
       "https://media.licdn.com/dms/image/C5603AQGa4dkSEWZa8Q/profile-displayphoto-shrink_800_800/0/1646335721867?e=1712793600&v=beta&t=XCjd_hxEyDmAuxrd_c2KaWIy9OOx5_RDW28fu_KI6mw",
-    //"https://randomuser.me/api/portraits/women/58.jpg",
   },
 ];
 
