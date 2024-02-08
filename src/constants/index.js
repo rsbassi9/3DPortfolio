@@ -172,7 +172,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "We had an amazing experience working with Rajvir. From design to upkeep of our website, he's kept us in the loop.",
+      "We had an amazing experience working with Rajvir. From design to upkeep of our website, he has worked with us to create our ideal vision.",
     name: "Vishakha Jani",
     designation: "CFO",
     company: "Jagannath Growers PLC.",
@@ -180,7 +180,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rajvir does.",
+      "Rajvir is a web developer who truly cares about his client's success. I would recommend him to any of my colleagues.",
     name: "Grace Ngatia",
     designation: "Manager",
     company: "Prime Living Luxury Apartments",
@@ -188,11 +188,13 @@ const testimonials = [
   },
   {
     testimonial:
-      "Working on designing products and making a website to portray our company's ethos with Rajvir has been a breeze.",
+      "Working with Rajvr to design products and make a website was both a pleasure and creatively inspiring.",
     name: "Jana Rolland",
     designation: "Design Lead",
     company: "Kanga Threads",
-    image: "https://randomuser.me/api/portraits/women/58.jpg",
+    image:
+      "https://media.licdn.com/dms/image/C5603AQGa4dkSEWZa8Q/profile-displayphoto-shrink_800_800/0/1646335721867?e=1712793600&v=beta&t=XCjd_hxEyDmAuxrd_c2KaWIy9OOx5_RDW28fu_KI6mw",
+    //"https://randomuser.me/api/portraits/women/58.jpg",
   },
 ];
 
